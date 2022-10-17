@@ -1,8 +1,6 @@
 # CMPM121-Project
 Main project for CMPM121 Fall quarter (Game Mechanics)
 
-ReadMe:
-
 My scene is a small section of a small town. It shows a single house by the road, with a small farm in its backyard and a supermarket next-door. There are woods behind the supermarket and a plane flying through the clouds overhead. I included bigger objects like houses and supermarkets, but also smaller ones like grass, rocks, shrubs, and pumpkins. I looked through the unity asset store to draw inspiration, and I consistently liked the simplistic art style of the low polygon scenes I would see. So I sought out to make one of my own. The main character in this scene is the object male_1, a man dressed in all black standing across the road from the main house, looking towards it.
 
 Objects:
